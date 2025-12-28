@@ -8,8 +8,8 @@ const projects = [
     date: 'Jun 2025',
     description: 'Real-time vehicle detection using computer vision.',
     points: [
-      'YOLOv4-Tiny + DeepSORT with OpenCV',
-      'Streamlit frontend deployed via GitHub',
+      'Engineered a real-time tracking pipeline integrating YOLOv4-Tiny for detection and DeepSORT for object tracking via OpenCV.',
+      'Deployed an interactive Streamlit dashboard allowing users to process video feeds and visualize traffic count analytics.',
     ],
     tech: ['Python', 'OpenCV', 'YOLO', 'Streamlit'],
     gradient: '#00f5ff',
@@ -22,8 +22,8 @@ const projects = [
     date: '2025',
     description: 'Construction equipment rental system.',
     points: [
-      'React.js + Node.js full-stack',
-      'Booking management & admin controls',
+      'Architected a scalable PERN stack application with React.js for dynamic UI and Node.js/Express for RESTful API services.',
+      'Implemented secure booking workflows and an admin dashboard featuring inventory management and role-based access control.',
     ],
     tech: ['React', 'Node.js', 'PostgreSQL'],
     gradient: '#f59e0b',
